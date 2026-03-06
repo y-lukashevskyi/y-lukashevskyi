@@ -125,7 +125,7 @@
     <!-- commit number -->
     <text class="hd" x="89" y="164" text-anchor="middle"
       font-size="34" fill="#e8c84a"
-      filter="url(#goldglow)">30</text>
+      filter="url(#goldglow)">31</text>
 
     <text class="mono sub" x="89" y="178" text-anchor="middle" fill="#6a7a3a">COMMITS DEPLOYED</text>
 
@@ -150,7 +150,7 @@
     <rect x="18" y="220" width="142" height="6" rx="1" fill="#181d0e"/>
     <rect x="18" y="220" width="0" height="6" rx="1"
       fill="url(#barGrad)">
-      <animate attributeName="width" from="0" to="122" dur=".8s"
+      <animate attributeName="width" from="0" to="126" dur=".8s"
         begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
     </rect>
     <!-- tick marks -->
@@ -159,7 +159,7 @@
     <line x1="124.5" y1="220" x2="124.5" y2="226" stroke="#0a0c08" stroke-width="1.5"/>
     <text class="mono dim" x="18"     y="238">0</text>
     <text class="mono dim" x="160" y="238" text-anchor="end">TGT:35</text>
-    <text class="mono dim" x="89"         y="238" text-anchor="middle">86%</text>
+    <text class="mono dim" x="89"         y="238" text-anchor="middle">89%</text>
   </g></g>
 
   <g class="fu1"><line x1="180" y1="82" x2="180" y2="246" stroke="#4a5a2a" stroke-width="1"/>
@@ -180,7 +180,7 @@
     <!-- commit number -->
     <text class="hd" x="269" y="164" text-anchor="middle"
       font-size="34" fill="#e8c84a"
-      filter="url(#goldglow)">30</text>
+      filter="url(#goldglow)">31</text>
 
     <text class="mono sub" x="269" y="178" text-anchor="middle" fill="#6a7a3a">COMMITS DEPLOYED</text>
 
@@ -205,7 +205,7 @@
     <rect x="198" y="220" width="142" height="6" rx="1" fill="#181d0e"/>
     <rect x="198" y="220" width="0" height="6" rx="1"
       fill="url(#barGrad)">
-      <animate attributeName="width" from="0" to="28" dur=".8s"
+      <animate attributeName="width" from="0" to="29" dur=".8s"
         begin="0.5s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
     </rect>
     <!-- tick marks -->
@@ -214,7 +214,7 @@
     <line x1="304.5" y1="220" x2="304.5" y2="226" stroke="#0a0c08" stroke-width="1.5"/>
     <text class="mono dim" x="198"     y="238">0</text>
     <text class="mono dim" x="340" y="238" text-anchor="end">TGT:150</text>
-    <text class="mono dim" x="269"         y="238" text-anchor="middle">20%</text>
+    <text class="mono dim" x="269"         y="238" text-anchor="middle">21%</text>
   </g></g>
 
   <g class="fu1"><line x1="360" y1="82" x2="360" y2="246" stroke="#4a5a2a" stroke-width="1"/>
@@ -235,7 +235,7 @@
     <!-- commit number -->
     <text class="hd" x="449" y="164" text-anchor="middle"
       font-size="34" fill="#e8c84a"
-      filter="url(#goldglow)">117</text>
+      filter="url(#goldglow)">118</text>
 
     <text class="mono sub" x="449" y="178" text-anchor="middle" fill="#6a7a3a">COMMITS DEPLOYED</text>
 
