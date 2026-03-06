@@ -22,7 +22,7 @@ jobs:
 
       - name: Generate Stats SVG
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           USERNAME: y-lukashevskyi
         run: node generate-stats.js
 
