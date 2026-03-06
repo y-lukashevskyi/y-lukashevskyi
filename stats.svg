@@ -91,7 +91,7 @@
   <g class="fu" style="animation-delay:.32s">
     <text class="lbl" x="60" y="77" text-anchor="middle">THIS WEEK</text>
     <rect x="14" y="83" width="92" height="58" rx="5" fill="url(#bgC)"/>
-    <text class="num c" x="60" y="119" text-anchor="middle" filter="url(#glC)">24</text>
+    <text class="num c" x="60" y="119" text-anchor="middle" filter="url(#glC)">26</text>
     <text class="lbl g" x="60" y="134" text-anchor="middle">0 MERGED PR</text>
   </g>
   <!-- week bars -->
@@ -114,14 +114,14 @@
   <g class="fu" style="animation-delay:.42s">
     <text class="lbl" x="248" y="77" text-anchor="middle">THIS MONTH</text>
     <rect x="155" y="83" width="186" height="58" rx="5" fill="url(#bgC)"/>
-    <text class="num c" x="248" y="119" text-anchor="middle" filter="url(#glC)">24</text>
+    <text class="num c" x="248" y="119" text-anchor="middle" filter="url(#glC)">26</text>
     <text class="lbl g" x="248" y="134" text-anchor="middle">0 MERGED PR</text>
   </g>
   <!-- month bars -->
   
     <rect x="351" y="152" width="9" height="0" rx="2" fill="#58a6ff" opacity="0.85">
-      <animate attributeName="height" from="0" to="28.799999999999997" dur="0.55s" begin="0.62s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
-      <animate attributeName="y"      from="152" to="123.2" dur="0.55s" begin="0.62s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
+      <animate attributeName="height" from="0" to="31.2" dur="0.55s" begin="0.62s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
+      <animate attributeName="y"      from="152" to="120.8" dur="0.55s" begin="0.62s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
     </rect>
   
     <rect x="362" y="152" width="9" height="0" rx="2" fill="#3fb950" opacity="0.85">
@@ -137,7 +137,7 @@
   <g class="fu" style="animation-delay:.52s">
     <text class="lbl" x="431" y="77" text-anchor="middle">THIS YEAR</text>
     <rect x="391" y="83" width="80" height="58" rx="5" fill="url(#bgC)"/>
-    <text class="num c" x="431" y="119" text-anchor="middle" filter="url(#glC)">111</text>
+    <text class="num c" x="431" y="119" text-anchor="middle" filter="url(#glC)">113</text>
     <text class="lbl g" x="431" y="134" text-anchor="middle">0 PR</text>
   </g>
 
