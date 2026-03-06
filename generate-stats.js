@@ -39,13 +39,11 @@ const QUERY = `
       contributionsCollection(from: $from) {
         totalCommitContributions
         restrictedContributionsCount
-        totalPullRequestContributions
         pullRequestContributionsByRepository {
           contributions(first: 100) {
-            nodes { pullRequest { state mergedAt } }
+            nodes { pullRequest { state } }
           }
         }
-        privateAmountForcedToZero
       }
     }
   }
