@@ -84,22 +84,41 @@ async function fetchStats() {
   const createdData = await gql(CREATED_QUERY, { login: USERNAME });
   const createdYear =
     new Date(createdData?.data?.user?.createdAt).getFullYear() || 2019;
+  const currentYear = new Date().getFullYear();
 
-  const [yw, ym, yy, ya] = await Promise.all([
+  // GitHub API limits contributionsCollection to 1 year max per query
+  // So we fetch each year separately and sum for all-time
+  const years = [];
+  for (let y = createdYear; y <= currentYear; y++) years.push(y);
+
+  const [yw, ym, yy, ...yearlyResults] = await Promise.all([
     gql(QUERY, { login: USERNAME, from: startOf("week") }),
     gql(QUERY, { login: USERNAME, from: startOf("month") }),
     gql(QUERY, { login: USERNAME, from: startOf("year") }),
-    gql(QUERY, {
-      login: USERNAME,
-      from: new Date(createdYear, 0, 1).toISOString(),
-    }),
+    ...years.map((y) =>
+      gql(QUERY, { login: USERNAME, from: new Date(y, 0, 1).toISOString() }),
+    ),
   ]);
+
+  // Sum each yearly bucket — but each query returns "from Jan 1 of that year to now"
+  // so we must compute per-year by subtracting: year[n] - year[n+1]
+  const yearlyCounts = yearlyResults.map((d) => extract(d).commits);
+  let allTimeCommits = 0;
+  for (let i = 0; i < yearlyCounts.length; i++) {
+    if (i < yearlyCounts.length - 1) {
+      // This year bucket = total from year[i] minus total from year[i+1]
+      allTimeCommits += Math.max(0, yearlyCounts[i] - yearlyCounts[i + 1]);
+    } else {
+      // Last (most recent) year — already scoped to current year only
+      allTimeCommits += yearlyCounts[i];
+    }
+  }
 
   return {
     week: extract(yw),
     month: extract(ym),
     year: extract(yy),
-    allTime: extract(ya),
+    allTime: { commits: allTimeCommits },
   };
 }
 
