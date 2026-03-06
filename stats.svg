@@ -125,7 +125,7 @@
     <!-- commit number -->
     <text class="hd" x="89" y="164" text-anchor="middle"
       font-size="34" fill="#e8c84a"
-      filter="url(#goldglow)">29</text>
+      filter="url(#goldglow)">30</text>
 
     <text class="mono sub" x="89" y="178" text-anchor="middle" fill="#6a7a3a">COMMITS DEPLOYED</text>
 
@@ -150,7 +150,7 @@
     <rect x="18" y="220" width="142" height="6" rx="1" fill="#181d0e"/>
     <rect x="18" y="220" width="0" height="6" rx="1"
       fill="url(#barGrad)">
-      <animate attributeName="width" from="0" to="118" dur=".8s"
+      <animate attributeName="width" from="0" to="122" dur=".8s"
         begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
     </rect>
     <!-- tick marks -->
@@ -159,7 +159,7 @@
     <line x1="124.5" y1="220" x2="124.5" y2="226" stroke="#0a0c08" stroke-width="1.5"/>
     <text class="mono dim" x="18"     y="238">0</text>
     <text class="mono dim" x="160" y="238" text-anchor="end">TGT:35</text>
-    <text class="mono dim" x="89"         y="238" text-anchor="middle">83%</text>
+    <text class="mono dim" x="89"         y="238" text-anchor="middle">86%</text>
   </g></g>
 
   <g class="fu1"><line x1="180" y1="82" x2="180" y2="246" stroke="#4a5a2a" stroke-width="1"/>
@@ -180,18 +180,18 @@
     <!-- commit number -->
     <text class="hd" x="269" y="164" text-anchor="middle"
       font-size="34" fill="#e8c84a"
-      filter="url(#goldglow)">29</text>
+      filter="url(#goldglow)">30</text>
 
     <text class="mono sub" x="269" y="178" text-anchor="middle" fill="#6a7a3a">COMMITS DEPLOYED</text>
 
     <!-- mission rating label -->
     <text class="mono" x="269" y="194" text-anchor="middle"
-      font-size="7.5" fill="#884422" letter-spacing=".1em">DISGRACEFUL CONDUCT</text>
+      font-size="7.5" fill="#aa6622" letter-spacing=".1em">DISAPPOINTING SERVICE</text>
 
     <!-- stars -->
     <polygon points="235.00,204.50 236.36,208.13 240.23,208.30 237.20,210.71 238.23,214.45 235.00,212.31 231.77,214.45 232.80,210.71 229.77,208.30 233.64,208.13"
-      fill="none"
-      stroke="#e8c84a" stroke-width="1" opacity="0.3"/><polygon points="249.00,204.50 250.36,208.13 254.23,208.30 251.20,210.71 252.23,214.45 249.00,212.31 245.77,214.45 246.80,210.71 243.77,208.30 247.64,208.13"
+      fill="#e8c84a"
+      stroke="#e8c84a" stroke-width="1" opacity="1"/><polygon points="249.00,204.50 250.36,208.13 254.23,208.30 251.20,210.71 252.23,214.45 249.00,212.31 245.77,214.45 246.80,210.71 243.77,208.30 247.64,208.13"
       fill="none"
       stroke="#e8c84a" stroke-width="1" opacity="0.3"/><polygon points="263.00,204.50 264.36,208.13 268.23,208.30 265.20,210.71 266.23,214.45 263.00,212.31 259.77,214.45 260.80,210.71 257.77,208.30 261.64,208.13"
       fill="none"
@@ -205,7 +205,7 @@
     <rect x="198" y="220" width="142" height="6" rx="1" fill="#181d0e"/>
     <rect x="198" y="220" width="0" height="6" rx="1"
       fill="url(#barGrad)">
-      <animate attributeName="width" from="0" to="27" dur=".8s"
+      <animate attributeName="width" from="0" to="28" dur=".8s"
         begin="0.5s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
     </rect>
     <!-- tick marks -->
@@ -214,7 +214,7 @@
     <line x1="304.5" y1="220" x2="304.5" y2="226" stroke="#0a0c08" stroke-width="1.5"/>
     <text class="mono dim" x="198"     y="238">0</text>
     <text class="mono dim" x="340" y="238" text-anchor="end">TGT:150</text>
-    <text class="mono dim" x="269"         y="238" text-anchor="middle">19%</text>
+    <text class="mono dim" x="269"         y="238" text-anchor="middle">20%</text>
   </g></g>
 
   <g class="fu1"><line x1="360" y1="82" x2="360" y2="246" stroke="#4a5a2a" stroke-width="1"/>
@@ -235,7 +235,7 @@
     <!-- commit number -->
     <text class="hd" x="449" y="164" text-anchor="middle"
       font-size="34" fill="#e8c84a"
-      filter="url(#goldglow)">116</text>
+      filter="url(#goldglow)">117</text>
 
     <text class="mono sub" x="449" y="178" text-anchor="middle" fill="#6a7a3a">COMMITS DEPLOYED</text>
 
@@ -297,18 +297,18 @@
     <!-- commit number -->
     <text class="hd" x="629" y="164" text-anchor="middle"
       font-size="30" fill="#ffdd66"
-      filter="url(#brightglow)">1</text>
+      filter="url(#brightglow)">1,175</text>
 
     <text class="mono sub" x="629" y="178" text-anchor="middle" fill="#6a7a3a">COMMITS DEPLOYED</text>
 
     <!-- mission rating label -->
     <text class="mono" x="629" y="194" text-anchor="middle"
-      font-size="7.5" fill="#884422" letter-spacing=".1em">DISGRACEFUL CONDUCT</text>
+      font-size="7.5" fill="#aa6622" letter-spacing=".1em">DISAPPOINTING SERVICE</text>
 
     <!-- stars -->
     <polygon points="595.00,204.50 596.36,208.13 600.23,208.30 597.20,210.71 598.23,214.45 595.00,212.31 591.77,214.45 592.80,210.71 589.77,208.30 593.64,208.13"
-      fill="none"
-      stroke="#e8c84a" stroke-width="1" opacity="0.3"/><polygon points="609.00,204.50 610.36,208.13 614.23,208.30 611.20,210.71 612.23,214.45 609.00,212.31 605.77,214.45 606.80,210.71 603.77,208.30 607.64,208.13"
+      fill="#e8c84a"
+      stroke="#e8c84a" stroke-width="1" opacity="1"/><polygon points="609.00,204.50 610.36,208.13 614.23,208.30 611.20,210.71 612.23,214.45 609.00,212.31 605.77,214.45 606.80,210.71 603.77,208.30 607.64,208.13"
       fill="none"
       stroke="#e8c84a" stroke-width="1" opacity="0.3"/><polygon points="623.00,204.50 624.36,208.13 628.23,208.30 625.20,210.71 626.23,214.45 623.00,212.31 619.77,214.45 620.80,210.71 617.77,208.30 621.64,208.13"
       fill="none"
@@ -322,7 +322,7 @@
     <rect x="558" y="220" width="142" height="6" rx="1" fill="#181d0e"/>
     <rect x="558" y="220" width="0" height="6" rx="1"
       fill="url(#barAll)">
-      <animate attributeName="width" from="0" to="2" dur=".8s"
+      <animate attributeName="width" from="0" to="56" dur=".8s"
         begin="0.9s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
     </rect>
     <!-- tick marks -->
@@ -331,7 +331,7 @@
     <line x1="664.5" y1="220" x2="664.5" y2="226" stroke="#0a0c08" stroke-width="1.5"/>
     <text class="mono dim" x="558"     y="238">0</text>
     <text class="mono dim" x="700" y="238" text-anchor="end">TGT:3,000</text>
-    <text class="mono dim" x="629"         y="238" text-anchor="middle">0%</text>
+    <text class="mono dim" x="629"         y="238" text-anchor="middle">39%</text>
   </g></g>
 
   <!-- bottom divider -->
