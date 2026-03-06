@@ -38,11 +38,14 @@ const QUERY = `
     user(login: $login) {
       contributionsCollection(from: $from) {
         totalCommitContributions
+        restrictedContributionsCount
+        totalPullRequestContributions
         pullRequestContributionsByRepository {
           contributions(first: 100) {
-            nodes { pullRequest { state } }
+            nodes { pullRequest { state mergedAt } }
           }
         }
+        privateAmountForcedToZero
       }
     }
   }
@@ -51,7 +54,13 @@ const QUERY = `
 function extract(data) {
   const c = data?.data?.user?.contributionsCollection;
   if (!c) return { commits: 0, prs: 0 };
-  const commits = c.totalCommitContributions || 0;
+
+  // totalCommitContributions = public commits
+  // restrictedContributionsCount = private commits (only visible with sufficient token scope)
+  const commits =
+    (c.totalCommitContributions || 0) + (c.restrictedContributionsCount || 0);
+
+  // Count merged PRs across all repos (public + private)
   const prs = (c.pullRequestContributionsByRepository || []).reduce(
     (sum, repo) =>
       sum +
