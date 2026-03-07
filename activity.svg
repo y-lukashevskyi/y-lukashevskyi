@@ -103,36 +103,36 @@
   <g class="fu3">
     <text class="mono" x="358" y="78" font-size="8" fill="#6a7a3a" letter-spacing=".18em">◈ ACTIVE DAYS ◈</text>
     
-    <rect x="358" y="155" width="18" height="39" rx="2" fill="#6a8a3a" opacity=".85">
-      <animate attributeName="height" from="0" to="39" dur=".6s" begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
-      <animate attributeName="y" from="194" to="155" dur=".6s" begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
+    <rect x="358" y="154" width="18" height="40" rx="2" fill="#6a8a3a" opacity=".85">
+      <animate attributeName="height" from="0" to="40" dur=".6s" begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
+      <animate attributeName="y" from="194" to="154" dur=".6s" begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
     </rect>
     <text class="mono" x="367" y="205" text-anchor="middle" font-size="7" fill="#4a5a2a">MON</text>
-    <text class="mono" x="367" y="152" text-anchor="middle" font-size="7" fill="#6a8a3a">325</text>
-    <rect x="386" y="140" width="18" height="54" rx="2" fill="#6a8a3a" opacity=".85">
-      <animate attributeName="height" from="0" to="54" dur=".6s" begin="0.38s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
-      <animate attributeName="y" from="194" to="140" dur=".6s" begin="0.38s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
+    <text class="mono" x="367" y="151" text-anchor="middle" font-size="7" fill="#6a8a3a">325</text>
+    <rect x="386" y="138" width="18" height="56" rx="2" fill="#6a8a3a" opacity=".85">
+      <animate attributeName="height" from="0" to="56" dur=".6s" begin="0.38s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
+      <animate attributeName="y" from="194" to="138" dur=".6s" begin="0.38s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
     </rect>
     <text class="mono" x="395" y="205" text-anchor="middle" font-size="7" fill="#4a5a2a">TUE</text>
-    <text class="mono" x="395" y="137" text-anchor="middle" font-size="7" fill="#6a8a3a">454</text>
-    <rect x="414" y="154" width="18" height="40" rx="2" fill="#6a8a3a" opacity=".85">
-      <animate attributeName="height" from="0" to="40" dur=".6s" begin="0.45999999999999996s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
-      <animate attributeName="y" from="194" to="154" dur=".6s" begin="0.45999999999999996s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
+    <text class="mono" x="395" y="135" text-anchor="middle" font-size="7" fill="#6a8a3a">454</text>
+    <rect x="414" y="153" width="18" height="41" rx="2" fill="#6a8a3a" opacity=".85">
+      <animate attributeName="height" from="0" to="41" dur=".6s" begin="0.45999999999999996s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
+      <animate attributeName="y" from="194" to="153" dur=".6s" begin="0.45999999999999996s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
     </rect>
     <text class="mono" x="423" y="205" text-anchor="middle" font-size="7" fill="#4a5a2a">WED</text>
-    <text class="mono" x="423" y="151" text-anchor="middle" font-size="7" fill="#6a8a3a">331</text>
+    <text class="mono" x="423" y="150" text-anchor="middle" font-size="7" fill="#6a8a3a">331</text>
     <rect x="442" y="134" width="18" height="60" rx="2" fill="#e8c84a" opacity=".85">
       <animate attributeName="height" from="0" to="60" dur=".6s" begin="0.54s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
       <animate attributeName="y" from="194" to="134" dur=".6s" begin="0.54s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
     </rect>
     <text class="mono" x="451" y="205" text-anchor="middle" font-size="7" fill="#4a5a2a">THU</text>
-    <text class="mono" x="451" y="131" text-anchor="middle" font-size="7" fill="#e8c84a">500</text>
-    <rect x="470" y="168" width="18" height="26" rx="2" fill="#6a8a3a" opacity=".85">
-      <animate attributeName="height" from="0" to="26" dur=".6s" begin="0.62s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
-      <animate attributeName="y" from="194" to="168" dur=".6s" begin="0.62s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
+    <text class="mono" x="451" y="131" text-anchor="middle" font-size="7" fill="#e8c84a">483</text>
+    <rect x="470" y="167" width="18" height="27" rx="2" fill="#6a8a3a" opacity=".85">
+      <animate attributeName="height" from="0" to="27" dur=".6s" begin="0.62s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
+      <animate attributeName="y" from="194" to="167" dur=".6s" begin="0.62s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
     </rect>
     <text class="mono" x="479" y="205" text-anchor="middle" font-size="7" fill="#4a5a2a">FRI</text>
-    <text class="mono" x="479" y="165" text-anchor="middle" font-size="7" fill="#6a8a3a">217</text>
+    <text class="mono" x="479" y="164" text-anchor="middle" font-size="7" fill="#6a8a3a">221</text>
   </g>
 
   <!-- divider 2 -->
@@ -195,7 +195,7 @@
   </g>
   <line x1="12" y1="228" x2="708" y2="228" stroke="#e8c84a" stroke-width="1" opacity=".3"/>
   <text class="mono" x="14" y="246" font-size="7" fill="#3a4a1a" letter-spacing=".13em">FOR SUPER EARTH. FOR DEMOCRACY. FOR MANAGED CODE.</text>
-  <text class="mono" x="706" y="246" font-size="7" fill="#3a4a1a" text-anchor="end">Fri, 06 Mar 2026 UTC</text>
+  <text class="mono" x="706" y="246" font-size="7" fill="#3a4a1a" text-anchor="end">Sat, 07 Mar 2026 UTC</text>
   <text class="mono blink" x="706" y="256" font-size="7" fill="#2a3a1a" text-anchor="end">█</text>
 </g>
 </svg>
