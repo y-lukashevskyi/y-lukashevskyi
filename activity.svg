@@ -108,7 +108,7 @@
       <animate attributeName="y" from="194" to="153" dur=".6s" begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
     </rect>
     <text class="mono" x="367" y="205" text-anchor="middle" font-size="7" fill="#4a5a2a">MON</text>
-    <text class="mono" x="367" y="150" text-anchor="middle" font-size="7" fill="#6a8a3a">326</text>
+    <text class="mono" x="367" y="150" text-anchor="middle" font-size="7" fill="#6a8a3a">327</text>
     <rect x="386" y="137" width="18" height="57" rx="2" fill="#6a8a3a" opacity=".85">
       <animate attributeName="height" from="0" to="57" dur=".6s" begin="0.38s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
       <animate attributeName="y" from="194" to="137" dur=".6s" begin="0.38s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
