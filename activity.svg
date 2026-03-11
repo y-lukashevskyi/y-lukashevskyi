@@ -109,12 +109,12 @@
     </rect>
     <text class="mono" x="367" y="205" text-anchor="middle" font-size="7" fill="#4a5a2a">MON</text>
     <text class="mono" x="367" y="149" text-anchor="middle" font-size="7" fill="#6a8a3a">334</text>
-    <rect x="386" y="136" width="18" height="58" rx="2" fill="#6a8a3a" opacity=".85">
-      <animate attributeName="height" from="0" to="58" dur=".6s" begin="0.38s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
-      <animate attributeName="y" from="194" to="136" dur=".6s" begin="0.38s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
+    <rect x="386" y="135" width="18" height="59" rx="2" fill="#6a8a3a" opacity=".85">
+      <animate attributeName="height" from="0" to="59" dur=".6s" begin="0.38s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
+      <animate attributeName="y" from="194" to="135" dur=".6s" begin="0.38s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
     </rect>
     <text class="mono" x="395" y="205" text-anchor="middle" font-size="7" fill="#4a5a2a">TUE</text>
-    <text class="mono" x="395" y="133" text-anchor="middle" font-size="7" fill="#6a8a3a">468</text>
+    <text class="mono" x="395" y="132" text-anchor="middle" font-size="7" fill="#6a8a3a">473</text>
     <rect x="414" y="153" width="18" height="41" rx="2" fill="#6a8a3a" opacity=".85">
       <animate attributeName="height" from="0" to="41" dur=".6s" begin="0.45999999999999996s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
       <animate attributeName="y" from="194" to="153" dur=".6s" begin="0.45999999999999996s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
