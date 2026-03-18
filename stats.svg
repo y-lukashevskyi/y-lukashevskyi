@@ -90,20 +90,20 @@
       <circle cx="50" cy="22" r="9" fill="#e8c84a"/><circle cx="50" cy="22" r="4" fill="#0a0c08"/>
     </g>
     <text class="mono" x="89" y="104" text-anchor="middle" font-size="9" fill="#a8b878" letter-spacing=".15em">◈ THIS WEEK ◈</text>
-    <text class="hd" x="89" y="164" text-anchor="middle" font-size="34" fill="#e8c84a" filter="url(#goldglow)">14</text>
+    <text class="hd" x="89" y="164" text-anchor="middle" font-size="34" fill="#e8c84a" filter="url(#goldglow)">15</text>
     <text class="mono" x="89" y="178" text-anchor="middle" font-size="8" fill="#6a7a3a" letter-spacing=".2em">COMMITS DEPLOYED</text>
     <text class="mono" x="89" y="194" text-anchor="middle" font-size="7.5" fill="#c8a830" letter-spacing=".1em">UNREMARKABLE PERFORMANCE</text>
     <polygon points="55.00,204.50 56.36,208.13 60.23,208.30 57.20,210.71 58.23,214.45 55.00,212.31 51.77,214.45 52.80,210.71 49.77,208.30 53.64,208.13" fill="#e8c84a" stroke="#e8c84a" stroke-width="1" opacity="1"/><polygon points="69.00,204.50 70.36,208.13 74.23,208.30 71.20,210.71 72.23,214.45 69.00,212.31 65.77,214.45 66.80,210.71 63.77,208.30 67.64,208.13" fill="#e8c84a" stroke="#e8c84a" stroke-width="1" opacity="1"/><polygon points="83.00,204.50 84.36,208.13 88.23,208.30 85.20,210.71 86.23,214.45 83.00,212.31 79.77,214.45 80.80,210.71 77.77,208.30 81.64,208.13" fill="none" stroke="#e8c84a" stroke-width="1" opacity="0.3"/><polygon points="97.00,204.50 98.36,208.13 102.23,208.30 99.20,210.71 100.23,214.45 97.00,212.31 93.77,214.45 94.80,210.71 91.77,208.30 95.64,208.13" fill="none" stroke="#e8c84a" stroke-width="1" opacity="0.3"/><polygon points="111.00,204.50 112.36,208.13 116.23,208.30 113.20,210.71 114.23,214.45 111.00,212.31 107.77,214.45 108.80,210.71 105.77,208.30 109.64,208.13" fill="none" stroke="#e8c84a" stroke-width="1" opacity="0.3"/>
     <rect x="18" y="220" width="142" height="6" rx="1" fill="#181d0e"/>
     <rect x="18" y="220" width="0" height="6" rx="1" fill="url(#barGrad)">
-      <animate attributeName="width" from="0" to="57" dur=".8s" begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
+      <animate attributeName="width" from="0" to="61" dur=".8s" begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
     </rect>
     <line x1="53.5" y1="220" x2="53.5" y2="226" stroke="#0a0c08" stroke-width="1.5"/>
     <line x1="89" y1="220" x2="89" y2="226" stroke="#0a0c08" stroke-width="1.5"/>
     <line x1="124.5" y1="220" x2="124.5" y2="226" stroke="#0a0c08" stroke-width="1.5"/>
     <text class="mono" x="18" y="238" font-size="7" fill="#3a4a1a">0</text>
     <text class="mono" x="160" y="238" font-size="7" fill="#3a4a1a" text-anchor="end">TGT:35</text>
-    <text class="mono" x="89" y="238" font-size="7" fill="#3a4a1a" text-anchor="middle">40%</text>
+    <text class="mono" x="89" y="238" font-size="7" fill="#3a4a1a" text-anchor="middle">43%</text>
   </g></g>
   <line x1="180" y1="82" x2="180" y2="246" stroke="#4a5a2a" stroke-width="1" class="fu1"/>
   <polygon points="180,162 185,167 180,172 175,167" fill="#e8c84a" opacity=".3" class="fu1"/>
@@ -114,20 +114,20 @@
       <circle cx="50" cy="22" r="9" fill="#e8c84a"/><circle cx="50" cy="22" r="4" fill="#0a0c08"/>
     </g>
     <text class="mono" x="269" y="104" text-anchor="middle" font-size="9" fill="#a8b878" letter-spacing=".15em">◈ THIS MONTH ◈</text>
-    <text class="hd" x="269" y="164" text-anchor="middle" font-size="34" fill="#e8c84a" filter="url(#goldglow)">77</text>
+    <text class="hd" x="269" y="164" text-anchor="middle" font-size="34" fill="#e8c84a" filter="url(#goldglow)">78</text>
     <text class="mono" x="269" y="178" text-anchor="middle" font-size="8" fill="#6a7a3a" letter-spacing=".2em">COMMITS DEPLOYED</text>
-    <text class="mono" x="269" y="194" text-anchor="middle" font-size="7.5" fill="#c8a830" letter-spacing=".1em">UNREMARKABLE PERFORMANCE</text>
-    <polygon points="235.00,204.50 236.36,208.13 240.23,208.30 237.20,210.71 238.23,214.45 235.00,212.31 231.77,214.45 232.80,210.71 229.77,208.30 233.64,208.13" fill="#e8c84a" stroke="#e8c84a" stroke-width="1" opacity="1"/><polygon points="249.00,204.50 250.36,208.13 254.23,208.30 251.20,210.71 252.23,214.45 249.00,212.31 245.77,214.45 246.80,210.71 243.77,208.30 247.64,208.13" fill="#e8c84a" stroke="#e8c84a" stroke-width="1" opacity="1"/><polygon points="263.00,204.50 264.36,208.13 268.23,208.30 265.20,210.71 266.23,214.45 263.00,212.31 259.77,214.45 260.80,210.71 257.77,208.30 261.64,208.13" fill="none" stroke="#e8c84a" stroke-width="1" opacity="0.3"/><polygon points="277.00,204.50 278.36,208.13 282.23,208.30 279.20,210.71 280.23,214.45 277.00,212.31 273.77,214.45 274.80,210.71 271.77,208.30 275.64,208.13" fill="none" stroke="#e8c84a" stroke-width="1" opacity="0.3"/><polygon points="291.00,204.50 292.36,208.13 296.23,208.30 293.20,210.71 294.23,214.45 291.00,212.31 287.77,214.45 288.80,210.71 285.77,208.30 289.64,208.13" fill="none" stroke="#e8c84a" stroke-width="1" opacity="0.3"/>
+    <text class="mono" x="269" y="194" text-anchor="middle" font-size="7.5" fill="#d4b840" letter-spacing=".1em">HONORABLE DUTY</text>
+    <polygon points="235.00,204.50 236.36,208.13 240.23,208.30 237.20,210.71 238.23,214.45 235.00,212.31 231.77,214.45 232.80,210.71 229.77,208.30 233.64,208.13" fill="#e8c84a" stroke="#e8c84a" stroke-width="1" opacity="1"/><polygon points="249.00,204.50 250.36,208.13 254.23,208.30 251.20,210.71 252.23,214.45 249.00,212.31 245.77,214.45 246.80,210.71 243.77,208.30 247.64,208.13" fill="#e8c84a" stroke="#e8c84a" stroke-width="1" opacity="1"/><polygon points="263.00,204.50 264.36,208.13 268.23,208.30 265.20,210.71 266.23,214.45 263.00,212.31 259.77,214.45 260.80,210.71 257.77,208.30 261.64,208.13" fill="#e8c84a" stroke="#e8c84a" stroke-width="1" opacity="1"/><polygon points="277.00,204.50 278.36,208.13 282.23,208.30 279.20,210.71 280.23,214.45 277.00,212.31 273.77,214.45 274.80,210.71 271.77,208.30 275.64,208.13" fill="none" stroke="#e8c84a" stroke-width="1" opacity="0.3"/><polygon points="291.00,204.50 292.36,208.13 296.23,208.30 293.20,210.71 294.23,214.45 291.00,212.31 287.77,214.45 288.80,210.71 285.77,208.30 289.64,208.13" fill="none" stroke="#e8c84a" stroke-width="1" opacity="0.3"/>
     <rect x="198" y="220" width="142" height="6" rx="1" fill="#181d0e"/>
     <rect x="198" y="220" width="0" height="6" rx="1" fill="url(#barGrad)">
-      <animate attributeName="width" from="0" to="84" dur=".8s" begin="0.5s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
+      <animate attributeName="width" from="0" to="85" dur=".8s" begin="0.5s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
     </rect>
     <line x1="233.5" y1="220" x2="233.5" y2="226" stroke="#0a0c08" stroke-width="1.5"/>
     <line x1="269" y1="220" x2="269" y2="226" stroke="#0a0c08" stroke-width="1.5"/>
     <line x1="304.5" y1="220" x2="304.5" y2="226" stroke="#0a0c08" stroke-width="1.5"/>
     <text class="mono" x="198" y="238" font-size="7" fill="#3a4a1a">0</text>
     <text class="mono" x="340" y="238" font-size="7" fill="#3a4a1a" text-anchor="end">TGT:130</text>
-    <text class="mono" x="269" y="238" font-size="7" fill="#3a4a1a" text-anchor="middle">59%</text>
+    <text class="mono" x="269" y="238" font-size="7" fill="#3a4a1a" text-anchor="middle">60%</text>
   </g></g>
   <line x1="360" y1="82" x2="360" y2="246" stroke="#4a5a2a" stroke-width="1" class="fu1"/>
   <polygon points="360,162 365,167 360,172 355,167" fill="#e8c84a" opacity=".3" class="fu1"/>
@@ -138,7 +138,7 @@
       <circle cx="50" cy="22" r="9" fill="#e8c84a"/><circle cx="50" cy="22" r="4" fill="#0a0c08"/>
     </g>
     <text class="mono" x="449" y="104" text-anchor="middle" font-size="9" fill="#a8b878" letter-spacing=".15em">◈ THIS YEAR ◈</text>
-    <text class="hd" x="449" y="164" text-anchor="middle" font-size="34" fill="#e8c84a" filter="url(#goldglow)">166</text>
+    <text class="hd" x="449" y="164" text-anchor="middle" font-size="34" fill="#e8c84a" filter="url(#goldglow)">167</text>
     <text class="mono" x="449" y="178" text-anchor="middle" font-size="8" fill="#6a7a3a" letter-spacing=".2em">COMMITS DEPLOYED</text>
     <text class="mono" x="449" y="194" text-anchor="middle" font-size="7.5" fill="#884422" letter-spacing=".1em">DISGRACEFUL CONDUCT</text>
     <polygon points="415.00,204.50 416.36,208.13 420.23,208.30 417.20,210.71 418.23,214.45 415.00,212.31 411.77,214.45 412.80,210.71 409.77,208.30 413.64,208.13" fill="none" stroke="#e8c84a" stroke-width="1" opacity="0.3"/><polygon points="429.00,204.50 430.36,208.13 434.23,208.30 431.20,210.71 432.23,214.45 429.00,212.31 425.77,214.45 426.80,210.71 423.77,208.30 427.64,208.13" fill="none" stroke="#e8c84a" stroke-width="1" opacity="0.3"/><polygon points="443.00,204.50 444.36,208.13 448.23,208.30 445.20,210.71 446.23,214.45 443.00,212.31 439.77,214.45 440.80,210.71 437.77,208.30 441.64,208.13" fill="none" stroke="#e8c84a" stroke-width="1" opacity="0.3"/><polygon points="457.00,204.50 458.36,208.13 462.23,208.30 459.20,210.71 460.23,214.45 457.00,212.31 453.77,214.45 454.80,210.71 451.77,208.30 455.64,208.13" fill="none" stroke="#e8c84a" stroke-width="1" opacity="0.3"/><polygon points="471.00,204.50 472.36,208.13 476.23,208.30 473.20,210.71 474.23,214.45 471.00,212.31 467.77,214.45 468.80,210.71 465.77,208.30 469.64,208.13" fill="none" stroke="#e8c84a" stroke-width="1" opacity="0.3"/>
