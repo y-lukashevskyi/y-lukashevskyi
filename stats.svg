@@ -90,20 +90,20 @@
       <circle cx="50" cy="22" r="9" fill="#e8c84a"/><circle cx="50" cy="22" r="4" fill="#0a0c08"/>
     </g>
     <text class="mono" x="89" y="104" text-anchor="middle" font-size="9" fill="#a8b878" letter-spacing=".15em">◈ THIS WEEK ◈</text>
-    <text class="hd" x="89" y="164" text-anchor="middle" font-size="34" fill="#e8c84a" filter="url(#goldglow)">18</text>
+    <text class="hd" x="89" y="164" text-anchor="middle" font-size="34" fill="#e8c84a" filter="url(#goldglow)">0</text>
     <text class="mono" x="89" y="178" text-anchor="middle" font-size="8" fill="#6a7a3a" letter-spacing=".2em">COMMITS DEPLOYED</text>
-    <text class="mono" x="89" y="194" text-anchor="middle" font-size="7.5" fill="#c8a830" letter-spacing=".1em">UNREMARKABLE PERFORMANCE</text>
-    <polygon points="55.00,204.50 56.36,208.13 60.23,208.30 57.20,210.71 58.23,214.45 55.00,212.31 51.77,214.45 52.80,210.71 49.77,208.30 53.64,208.13" fill="#e8c84a" stroke="#e8c84a" stroke-width="1" opacity="1"/><polygon points="69.00,204.50 70.36,208.13 74.23,208.30 71.20,210.71 72.23,214.45 69.00,212.31 65.77,214.45 66.80,210.71 63.77,208.30 67.64,208.13" fill="#e8c84a" stroke="#e8c84a" stroke-width="1" opacity="1"/><polygon points="83.00,204.50 84.36,208.13 88.23,208.30 85.20,210.71 86.23,214.45 83.00,212.31 79.77,214.45 80.80,210.71 77.77,208.30 81.64,208.13" fill="none" stroke="#e8c84a" stroke-width="1" opacity="0.3"/><polygon points="97.00,204.50 98.36,208.13 102.23,208.30 99.20,210.71 100.23,214.45 97.00,212.31 93.77,214.45 94.80,210.71 91.77,208.30 95.64,208.13" fill="none" stroke="#e8c84a" stroke-width="1" opacity="0.3"/><polygon points="111.00,204.50 112.36,208.13 116.23,208.30 113.20,210.71 114.23,214.45 111.00,212.31 107.77,214.45 108.80,210.71 105.77,208.30 109.64,208.13" fill="none" stroke="#e8c84a" stroke-width="1" opacity="0.3"/>
+    <text class="mono" x="89" y="194" text-anchor="middle" font-size="7.5" fill="#884422" letter-spacing=".1em">DISGRACEFUL CONDUCT</text>
+    <polygon points="55.00,204.50 56.36,208.13 60.23,208.30 57.20,210.71 58.23,214.45 55.00,212.31 51.77,214.45 52.80,210.71 49.77,208.30 53.64,208.13" fill="none" stroke="#e8c84a" stroke-width="1" opacity="0.3"/><polygon points="69.00,204.50 70.36,208.13 74.23,208.30 71.20,210.71 72.23,214.45 69.00,212.31 65.77,214.45 66.80,210.71 63.77,208.30 67.64,208.13" fill="none" stroke="#e8c84a" stroke-width="1" opacity="0.3"/><polygon points="83.00,204.50 84.36,208.13 88.23,208.30 85.20,210.71 86.23,214.45 83.00,212.31 79.77,214.45 80.80,210.71 77.77,208.30 81.64,208.13" fill="none" stroke="#e8c84a" stroke-width="1" opacity="0.3"/><polygon points="97.00,204.50 98.36,208.13 102.23,208.30 99.20,210.71 100.23,214.45 97.00,212.31 93.77,214.45 94.80,210.71 91.77,208.30 95.64,208.13" fill="none" stroke="#e8c84a" stroke-width="1" opacity="0.3"/><polygon points="111.00,204.50 112.36,208.13 116.23,208.30 113.20,210.71 114.23,214.45 111.00,212.31 107.77,214.45 108.80,210.71 105.77,208.30 109.64,208.13" fill="none" stroke="#e8c84a" stroke-width="1" opacity="0.3"/>
     <rect x="18" y="220" width="142" height="6" rx="1" fill="#181d0e"/>
     <rect x="18" y="220" width="0" height="6" rx="1" fill="url(#barGrad)">
-      <animate attributeName="width" from="0" to="73" dur=".8s" begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
+      <animate attributeName="width" from="0" to="2" dur=".8s" begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
     </rect>
     <line x1="53.5" y1="220" x2="53.5" y2="226" stroke="#0a0c08" stroke-width="1.5"/>
     <line x1="89" y1="220" x2="89" y2="226" stroke="#0a0c08" stroke-width="1.5"/>
     <line x1="124.5" y1="220" x2="124.5" y2="226" stroke="#0a0c08" stroke-width="1.5"/>
     <text class="mono" x="18" y="238" font-size="7" fill="#3a4a1a">0</text>
     <text class="mono" x="160" y="238" font-size="7" fill="#3a4a1a" text-anchor="end">TGT:35</text>
-    <text class="mono" x="89" y="238" font-size="7" fill="#3a4a1a" text-anchor="middle">51%</text>
+    <text class="mono" x="89" y="238" font-size="7" fill="#3a4a1a" text-anchor="middle">0%</text>
   </g></g>
   <line x1="180" y1="82" x2="180" y2="246" stroke="#4a5a2a" stroke-width="1" class="fu1"/>
   <polygon points="180,162 185,167 180,172 175,167" fill="#e8c84a" opacity=".3" class="fu1"/>
@@ -178,7 +178,7 @@
   <use href="#star" x="62" y="254" width="10" height="10" opacity=".25" class="fu6"/>
   <line x1="12" y1="268" x2="708" y2="268" stroke="#e8c84a" stroke-width="1" opacity=".3"/>
   <text class="mono" x="14" y="286" font-size="7" fill="#3a4a1a" letter-spacing=".13em">FOR SUPER EARTH. FOR DEMOCRACY. FOR MANAGED CODE.</text>
-  <text class="mono" x="706" y="286" font-size="7" fill="#3a4a1a" text-anchor="end">Sat, 21 Mar 2026 UTC</text>
+  <text class="mono" x="706" y="286" font-size="7" fill="#3a4a1a" text-anchor="end">Sun, 22 Mar 2026 UTC</text>
   <text class="mono blink" x="706" y="296" font-size="7" fill="#2a3a1a" text-anchor="end">█</text>
 </g>
 </svg>
