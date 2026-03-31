@@ -76,16 +76,16 @@
     <text class="mono" x="14" y="78" font-size="8" fill="#6a7a3a" letter-spacing=".2em">◈ DEPLOYMENT STREAK (MON–FRI) ◈</text>
     <g class="flame" transform="translate(14,90)">
       <path d="M12,0 C12,0 18,8 18,14 C18,20 15,24 12,24 C9,24 6,20 6,14 C6,8 12,0 12,0Z M12,10 C12,10 15,15 15,18 C15,21 13.5,22 12,22 C10.5,22 9,21 9,18 C9,15 12,10 12,10Z"
-        fill="#e8c84a" opacity=".9" filter="url(#softglow)"/>
+        fill="#3a4a1a" opacity=".9" filter="url(#softglow)"/>
     </g>
-    <text class="hd" x="50" y="120" font-size="42" fill="#e8c84a" filter="url(#goldglow)">21</text>
+    <text class="hd" x="50" y="120" font-size="42" fill="#3a4a1a" filter="url(#goldglow)">0</text>
     <text class="mono" x="50" y="134" font-size="8" fill="#6a7a3a" letter-spacing=".15em">DAY STREAK</text>
     <text class="mono" x="14" y="154" font-size="7" fill="#a8b878" letter-spacing=".1em">CURRENT</text>
     <rect x="14" y="158" width="280" height="7" rx="1" fill="#181d0e"/>
     <rect x="14" y="158" width="0" height="7" rx="1" fill="url(#streakGrad)">
-      <animate attributeName="width" from="0" to="82" dur=".8s" begin=".4s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
+      <animate attributeName="width" from="0" to="0" dur=".8s" begin=".4s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
     </rect>
-    <text class="mono" x="300" y="165" font-size="7" fill="#e8c84a">21d</text>
+    <text class="mono" x="300" y="165" font-size="7" fill="#e8c84a">0d</text>
     <text class="mono" x="14" y="182" font-size="7" fill="#6a7a3a" letter-spacing=".1em">ALL-TIME BEST</text>
     <rect x="14" y="186" width="280" height="7" rx="1" fill="#181d0e"/>
     <rect x="14" y="186" width="0" height="7" rx="1" fill="url(#bestGrad)">
@@ -103,12 +103,12 @@
   <g class="fu3">
     <text class="mono" x="358" y="78" font-size="8" fill="#6a7a3a" letter-spacing=".18em">◈ ACTIVE DAYS ◈</text>
     
-    <rect x="358" y="151" width="18" height="43" rx="2" fill="#6a8a3a" opacity=".85">
-      <animate attributeName="height" from="0" to="43" dur=".6s" begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
-      <animate attributeName="y" from="194" to="151" dur=".6s" begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
+    <rect x="358" y="150" width="18" height="44" rx="2" fill="#6a8a3a" opacity=".85">
+      <animate attributeName="height" from="0" to="44" dur=".6s" begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
+      <animate attributeName="y" from="194" to="150" dur=".6s" begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
     </rect>
     <text class="mono" x="367" y="205" text-anchor="middle" font-size="7" fill="#4a5a2a">MON</text>
-    <text class="mono" x="367" y="148" text-anchor="middle" font-size="7" fill="#6a8a3a">357</text>
+    <text class="mono" x="367" y="147" text-anchor="middle" font-size="7" fill="#6a8a3a">359</text>
     <rect x="386" y="138" width="18" height="56" rx="2" fill="#6a8a3a" opacity=".85">
       <animate attributeName="height" from="0" to="56" dur=".6s" begin="0.38s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
       <animate attributeName="y" from="194" to="138" dur=".6s" begin="0.38s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
@@ -154,7 +154,7 @@
       <animate attributeName="y" from="194" to="134" dur=".6s" begin="0.56s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
     </rect>
     <text class="mono" x="562" y="205" text-anchor="middle" font-size="6" fill="#4a5a2a">3h</text>
-    <text class="mono" x="562" y="131" text-anchor="middle" font-size="7" fill="#e8c84a">6</text>
+    <text class="mono" x="562" y="131" text-anchor="middle" font-size="7" fill="#e8c84a">4</text>
     <rect x="578" y="194" width="16" height="0" rx="2" fill="#4a6a2a" opacity=".85">
       <animate attributeName="height" from="0" to="0" dur=".6s" begin="0.62s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
       <animate attributeName="y" from="194" to="194" dur=".6s" begin="0.62s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
@@ -173,12 +173,12 @@
     </rect>
     <text class="mono" x="634" y="205" text-anchor="middle" font-size="6" fill="#4a5a2a">12h</text>
     
-    <rect x="650" y="184" width="16" height="10" rx="2" fill="#4a6a2a" opacity=".85">
-      <animate attributeName="height" from="0" to="10" dur=".6s" begin="0.8s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
-      <animate attributeName="y" from="194" to="184" dur=".6s" begin="0.8s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
+    <rect x="650" y="179" width="16" height="15" rx="2" fill="#4a6a2a" opacity=".85">
+      <animate attributeName="height" from="0" to="15" dur=".6s" begin="0.8s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
+      <animate attributeName="y" from="194" to="179" dur=".6s" begin="0.8s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
     </rect>
     <text class="mono" x="658" y="205" text-anchor="middle" font-size="6" fill="#4a5a2a">15h</text>
-    <text class="mono" x="658" y="181" text-anchor="middle" font-size="7" fill="#4a6a2a">1</text>
+    <text class="mono" x="658" y="176" text-anchor="middle" font-size="7" fill="#4a6a2a">1</text>
     <rect x="674" y="194" width="16" height="0" rx="2" fill="#4a6a2a" opacity=".85">
       <animate attributeName="height" from="0" to="0" dur=".6s" begin="0.86s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
       <animate attributeName="y" from="194" to="194" dur=".6s" begin="0.86s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
@@ -195,7 +195,7 @@
   </g>
   <line x1="12" y1="228" x2="708" y2="228" stroke="#e8c84a" stroke-width="1" opacity=".3"/>
   <text class="mono" x="14" y="246" font-size="7" fill="#3a4a1a" letter-spacing=".13em">FOR SUPER EARTH. FOR DEMOCRACY. FOR MANAGED CODE.</text>
-  <text class="mono" x="706" y="246" font-size="7" fill="#3a4a1a" text-anchor="end">Mon, 30 Mar 2026 UTC</text>
+  <text class="mono" x="706" y="246" font-size="7" fill="#3a4a1a" text-anchor="end">Tue, 31 Mar 2026 UTC</text>
   <text class="mono blink" x="706" y="256" font-size="7" fill="#2a3a1a" text-anchor="end">█</text>
 </g>
 </svg>
