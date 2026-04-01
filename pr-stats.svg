@@ -127,13 +127,13 @@
     </rect>
     <text class="mono" x="354" y="205" text-anchor="middle" font-size="7" fill="#4a5a2a">F</text>
     
-    <rect x="374" y="194" width="24" height="0" rx="2" fill="#e8c84a" opacity=".85">
+    <rect x="374" y="194" width="24" height="0" rx="2" fill="#4a6a2a" opacity=".85">
       <animate attributeName="height" from="0" to="0" dur=".5s" begin="0.38s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
       <animate attributeName="y" from="194" to="194" dur=".5s" begin="0.38s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
     </rect>
     <text class="mono" x="386" y="205" text-anchor="middle" font-size="7" fill="#4a5a2a">M</text>
     
-    <rect x="406" y="194" width="24" height="0" rx="2" fill="#4a6a2a" opacity=".85">
+    <rect x="406" y="194" width="24" height="0" rx="2" fill="#e8c84a" opacity=".85">
       <animate attributeName="height" from="0" to="0" dur=".5s" begin="0.42s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
       <animate attributeName="y" from="194" to="194" dur=".5s" begin="0.42s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
     </rect>
@@ -190,7 +190,7 @@
   </g>
   <line x1="12" y1="228" x2="708" y2="228" stroke="#e8c84a" stroke-width="1" opacity=".3"/>
   <text class="mono" x="14" y="246" font-size="7" fill="#3a4a1a" letter-spacing=".13em">FOR SUPER EARTH. FOR DEMOCRACY. FOR MANAGED CODE.</text>
-  <text class="mono" x="706" y="246" font-size="7" fill="#3a4a1a" text-anchor="end">Tue, 31 Mar 2026 UTC</text>
+  <text class="mono" x="706" y="246" font-size="7" fill="#3a4a1a" text-anchor="end">Wed, 01 Apr 2026 UTC</text>
   <text class="mono blink" x="706" y="256" font-size="7" fill="#2a3a1a" text-anchor="end">█</text>
 </g>
 </svg>
