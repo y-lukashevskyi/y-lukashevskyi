@@ -132,7 +132,7 @@
       <animate attributeName="y" from="194" to="165" dur=".6s" begin="0.62s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
     </rect>
     <text class="mono" x="479" y="205" text-anchor="middle" font-size="7" fill="#4a5a2a">FRI</text>
-    <text class="mono" x="479" y="162" text-anchor="middle" font-size="7" fill="#6a8a3a">238</text>
+    <text class="mono" x="479" y="162" text-anchor="middle" font-size="7" fill="#6a8a3a">237</text>
   </g>
 
   <!-- divider 2 -->
@@ -195,7 +195,7 @@
   </g>
   <line x1="12" y1="228" x2="708" y2="228" stroke="#e8c84a" stroke-width="1" opacity=".3"/>
   <text class="mono" x="14" y="246" font-size="7" fill="#3a4a1a" letter-spacing=".13em">FOR SUPER EARTH. FOR DEMOCRACY. FOR MANAGED CODE.</text>
-  <text class="mono" x="706" y="246" font-size="7" fill="#3a4a1a" text-anchor="end">Sat, 04 Apr 2026 UTC</text>
+  <text class="mono" x="706" y="246" font-size="7" fill="#3a4a1a" text-anchor="end">Sun, 05 Apr 2026 UTC</text>
   <text class="mono blink" x="706" y="256" font-size="7" fill="#2a3a1a" text-anchor="end">█</text>
 </g>
 </svg>
