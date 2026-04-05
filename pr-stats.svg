@@ -73,16 +73,16 @@
 
   <!-- DONUT -->
   <g class="fu2">
-    <path d="M110.0,87.0 A65,65 0 1,1 110.0,87.0 L110.0,112.0 A40,40 0 1,0 110.0,112.0 Z" fill="#e8c84a" opacity=".9"/>
+    
     <!-- donut hole label -->
-    <text class="hd" x="110" y="158" text-anchor="middle" font-size="22" fill="#e8c84a" filter="url(#goldglow)">1</text>
+    <text class="hd" x="110" y="158" text-anchor="middle" font-size="22" fill="#e8c84a" filter="url(#goldglow)">0</text>
     <text class="mono" x="110" y="170" text-anchor="middle" font-size="7" fill="#6a7a3a">TOTAL</text>
 
     <!-- legend -->
     <rect x="18" y="78" width="10" height="10" rx="1" fill="#e8c84a"/>
     <text class="mono" x="34" y="88" font-size="8" fill="#a8b878">MERGED</text>
-    <text class="hd" x="34" y="104" font-size="20" fill="#e8c84a">1</text>
-    <text class="mono" x="34" y="115" font-size="7" fill="#6a7a3a">100% RATE</text>
+    <text class="hd" x="34" y="104" font-size="20" fill="#e8c84a">0</text>
+    <text class="mono" x="34" y="115" font-size="7" fill="#6a7a3a">0% RATE</text>
 
     <rect x="18" y="128" width="10" height="10" rx="1" fill="#7a3010"/>
     <text class="mono" x="34" y="138" font-size="8" fill="#a8b878">CLOSED</text>
@@ -100,11 +100,11 @@
   <!-- LINES CHANGED -->
   <g class="fu3">
     <text class="mono" x="234" y="78" font-size="8" fill="#6a7a3a" letter-spacing=".18em">◈ LINES CHANGED ◈</text>
-    <text class="hd" x="234" y="120" font-size="30" fill="#4aaa4a" filter="url(#softglow)">+16</text>
+    <text class="hd" x="234" y="120" font-size="30" fill="#4aaa4a" filter="url(#softglow)">+0</text>
     <text class="mono" x="234" y="134" font-size="7" fill="#3a7a3a" letter-spacing=".1em">LINES ADDED</text>
-    <text class="hd" x="234" y="170" font-size="30" fill="#aa4422" filter="url(#softglow)">-4</text>
+    <text class="hd" x="234" y="170" font-size="30" fill="#aa4422" filter="url(#softglow)">-0</text>
     <text class="mono" x="234" y="184" font-size="7" fill="#7a3a1a" letter-spacing=".1em">LINES REMOVED</text>
-    <text class="mono" x="234" y="210" font-size="7" fill="#2a3a1a">NET: +12</text>
+    <text class="mono" x="234" y="210" font-size="7" fill="#2a3a1a">NET: +0</text>
   </g>
 
   <!-- divider 2 -->
